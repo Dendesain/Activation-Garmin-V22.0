@@ -16,5 +16,11 @@
         "key": "Admin",
         "expirydate": "31-12-2050",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1121a2f41bbef05e",
+        "key": "luhutsinaga",
+        "expirydate": "31-12-2050",
+        "Allowoffline": true
     }
 ]
